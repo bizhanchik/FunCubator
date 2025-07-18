@@ -61,27 +61,15 @@ ContentView                 (root SwiftUI view)
 
 ## 📸 Screenshots
 
+### 💻 Main Menu
+![Main Menu](Screenshots/main.png)
+
 ### 👐 Massage Game
-![Massage Game](Screenshots/massage_game.png)
+![Massage Game](Screenshots/massage.png)
 
 ### 🕴 Costume Game
-![Costume Game](Screenshots/costume_game.png)
+![Costume Game](Screenshots/costume.png)
 
-### 🔥 Mentor Roast — Wave 1
-![Roast Wave 1](Screenshots/roast_wave1.png)
+### 🔥 Mentor Roast
+![Roast Wave 1](Screenshots/roast.png)
 
-### 🌪 Mentor Roast — Wave 2
-![Roast Wave 2](Screenshots/roast_wave2.png)
-
-### 💀 Mentor Roast — Wave 3 (Hard mode)
-![Roast Wave 3](Screenshots/roast_wave3.png)
-
-### 🧠 Boss Question Moment
-![Roast Boss](Screenshots/roast_boss.png)
-
-
-
-
-## 📜 License
-
-MIT — use, remix, meme‑ify. Credit back to nFactorial Game Hackathon 2025 🫶
