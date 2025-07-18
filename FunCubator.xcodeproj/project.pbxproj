@@ -7,13 +7,18 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		FD8C3B8C2E298BEE00F9FD85 /* FunCubator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FunCubator.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FD8C3B8C2E298BEE00F9FD85 /* FunCubator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = FunCubator.app; path = "/Users/bizhan/Desktop/Backend/frontend/ios/FunCubator/build/Debug-iphoneos/FunCubator.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		FD8C3B8E2E298BEE00F9FD85 /* FunCubator */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = FunCubator;
+			sourceTree = "<group>";
+		};
+		FDEC91E22E2A1E3F00A6E77A /* Screenshots */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Screenshots;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +38,8 @@
 			isa = PBXGroup;
 			children = (
 				FD8C3B8E2E298BEE00F9FD85 /* FunCubator */,
-				FD8C3B8D2E298BEE00F9FD85 /* Products */,
+				FDEC91E22E2A1E3F00A6E77A /* Screenshots */,
 			);
-			sourceTree = "<group>";
-		};
-		FD8C3B8D2E298BEE00F9FD85 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				FD8C3B8C2E298BEE00F9FD85 /* FunCubator.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -62,6 +59,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				FD8C3B8E2E298BEE00F9FD85 /* FunCubator */,
+				FDEC91E22E2A1E3F00A6E77A /* Screenshots */,
 			);
 			name = FunCubator;
 			packageProductDependencies = (
@@ -95,7 +93,7 @@
 			mainGroup = FD8C3B832E298BEE00F9FD85;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = FD8C3B8D2E298BEE00F9FD85 /* Products */;
+			productRefGroup = FD8C3B832E298BEE00F9FD85;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
